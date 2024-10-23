@@ -16,6 +16,12 @@ Sou um desenovlverdo com experiência em Front-end, focado em transformar a arte
 - Descobri minha paixão por programar aos 13 anos
 - Comecei estudando C++
 - Criei minha start-up chamada Cybernetics para fazer pequenos projetos de TI e manutenção de hardware em minha cidade. 
+
+## 🧠 Projetos
+Para ver alguns dos meus projetos desenvolvidos acesse meu AllMyLinks! 
+
+#### https://allmylinks.com/devjoaomoreira
+
 <!--
 **JoaoPaulo18/JoaoPaulo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

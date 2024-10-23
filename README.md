@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá, eu sou João Paulo 👋
+Sou um desenovlverdo com experiência em Front-end, focado em transformar a arte já existente em código 🖥️, atualmente estou aprendendo um pouco mais sobre WEB-3 
 <!--
 **JoaoPaulo18/JoaoPaulo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

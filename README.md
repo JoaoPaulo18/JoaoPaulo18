@@ -1,5 +1,12 @@
-## Olá, eu sou João Paulo 👋
-Sou um desenovlverdo com experiência em Front-end, focado em transformar a arte já existente em código 🖥️, atualmente estou aprendendo um pouco mais sobre WEB-3 
+# Olá, eu sou João Paulo 👋
+Sou um desenovlverdo com experiência em Front-end, focado em transformar a arte já existente em código 🖥️, atualmente estou aprendendo um pouco mais sobre WEB-3 utilizando Solidity, uma vez que o futuro da internet está cada vez mais próximo das Blockchains ⛓🔗
+
+##🛠️ Ferramentas de Trabalho
+Basics: HTML, CSS, JavaScript
+Framework: React, Tailwind 
+Ferramentas: Git, Figma, VS code
+Blockchain: Solidity (em aprendizado)
+
 <!--
 **JoaoPaulo18/JoaoPaulo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

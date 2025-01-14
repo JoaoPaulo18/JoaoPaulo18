@@ -5,7 +5,7 @@ Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte
 - Basics: HTML, CSS, JavaScript
 - Framework: React, Tailwind 
 - Ferramentas: Git, Figma, VS code
-- Blockchain: Solidity (em aprendizado)
+- Tipagem: Typescript (Em aprendizagem)
 
 ##  🌱 Estou aprendendo
 - Aprofundando conhecimentos em React

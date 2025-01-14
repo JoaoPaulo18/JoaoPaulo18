@@ -17,9 +17,13 @@ Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte
 - Comecei estudando C++
 - Criei minha start-up chamada Cybernetics para fazer pequenos projetos de TI e manutenção de hardware em minha cidade. 
 
-## 🧠 Projetos
-Para ver alguns dos meus projetos desenvolvidos acesse meu AllMyLinks! 
 
+
+## 🧠 Projetos & Portifólio
+Para conhecer mais de mim acesse meu portifólio!
+Para ver alguns dos meus projetos desenvolvidos acesse meu AllMyLinks!
+
+#### https://meu-portif-lio-puce.vercel.app/
 #### https://allmylinks.com/devjoaomoreira
 
 <!--

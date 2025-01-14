@@ -1,5 +1,5 @@
 # Olá, eu sou João Paulo 👋
-Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte já existente em código 🖥️, atualmente estou aprendendo um pouco mais sobre WEB-3 utilizando Solidity, uma vez que o futuro da internet está cada vez mais próximo das Blockchains ⛓
+Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte já existente em código 🖥️, atualmente estou aprendendo um pouco mais sobre Typescript e Tailwind para melhorar minha produção do dia a dia.
 
 ## 🛠️ Ferramentas de Trabalho
 - Basics: HTML, CSS, JavaScript
@@ -9,8 +9,8 @@ Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte
 
 ##  🌱 Estou aprendendo
 - Aprofundando conhecimentos em React
-- Iniciando em Solidity 
-- Tailwind
+- Aprendendo Typescript 
+- Aprendendo Tailwind
 
 ## ⚡ Curiosidades
 - Descobri minha paixão por programar aos 13 anos

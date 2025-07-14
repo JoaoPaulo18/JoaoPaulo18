@@ -15,7 +15,7 @@ Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte
 ## ⚡ Curiosidades
 - Descobri minha paixão por programar aos 13 anos
 - Comecei estudando C++
-- Criei minha start-up chamada Cybernetics para fazer pequenos projetos de TI e manutenção de hardware em minha cidade. 
+- Criei minha start-up chamada CyberLog para fazer pequenos projetos de TI e manutenção de hardware em minha cidade. 
 
 
 

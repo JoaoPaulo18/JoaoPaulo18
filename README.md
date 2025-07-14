@@ -1,9 +1,9 @@
 # Olá, eu sou João Paulo 👋
-Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte já existente em código 🖥️, atualmente estou aprendendo um pouco mais sobre Typescript e Tailwind para melhorar minha produção do dia a dia.
+Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte já existente em código 🖥️, atualmente estou aprendendo um pouco mais sobre Typescript e Next js para melhorar minha produção do dia a dia.
 
 ## 🛠️ Ferramentas de Trabalho
 - Basics: HTML, CSS, JavaScript
-- Framework: React, Tailwind 
+- Framework: React, Next js
 - Ferramentas: Git, Figma, VS code
 - Tipagem: Typescript (Em aprendizagem)
 
@@ -23,7 +23,8 @@ Sou um desenvolvedor com experiência em Front-end, focado em transformar a arte
 Para conhecer mais de mim acesse meu portifólio!
 Para ver alguns dos meus projetos desenvolvidos acesse meu AllMyLinks!
 
-#### https://meu-portif-lio-puce.vercel.app/
+#### https://joao-meu-portifolio.vercel.app/
+
 #### https://allmylinks.com/devjoaomoreira
 
 <!--
